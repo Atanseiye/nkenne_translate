@@ -31,6 +31,11 @@ name = "swahili"
 'collection_name': 'english_text', #-----for loading data
 ```
 
+- Update the database uri
+```bash
+'mongo_uri': '', #-----MongoDB URI
+```
+
 Change all parameter as necessary
 
 ## Start the training process
