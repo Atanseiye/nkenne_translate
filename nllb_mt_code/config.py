@@ -14,5 +14,5 @@ configuration = {
     'query': {'file_url':"https://opus.nlpl.eu/results/en&sw/corpus-result-table"}, #-----for MongoDB query to fetch the data
     'source_lang_': 'swc', #-----as metadata
     'target_lang_': 'en', #-----as metadata
-    'mongo_uri': 'mongodb+srv://kolade:bM0MkpVxYu9qMhAc@nkenne-cluster.zbsi9.mongodb.net/', #-----MongoDB URI
+    'mongo_uri': '', #-----MongoDB URI
 }
