@@ -32,3 +32,9 @@ name = "swahili"
 ```
 
 Change all parameter as necessary
+
+## Start the training process
+To initialise the training process
+```bash
+python run trainer.py
+```

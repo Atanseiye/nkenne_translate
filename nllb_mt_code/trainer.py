@@ -342,12 +342,12 @@ trainer = Seq2SeqTrainer(
 #############################################
 # Training the model
 #############################################
-# trainer.train()
+trainer.train()
 
 #############################################
 # Saving the model
 #############################################
-# trainer.save_model()
+trainer.save_model()
 
 
 
