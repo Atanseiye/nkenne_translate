@@ -2,23 +2,23 @@
 
 ## Installation
 
-Clone the repository and install dependencies:
+1. Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/Atanseiye/nkenne_translate.git
 ```
 
-Navigate to the script directory
+2. Navigate to the script directory
 ```bash
 cd nllb_mt_code
 ```
 
-Install the required dependecies
+3. Install the required dependecies
 ```bash
 pip install -r requirements.txt  # or use npm install if it's JS
 ```
 
-Open `config.py` and modify the settings accordingly
+4. Open `config.py` and modify the settings accordingly
 - To train swahili-to-english model.
 ```bash
 name = "swahili"
